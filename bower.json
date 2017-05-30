@@ -1,6 +1,6 @@
 {
   "name": "flexboxgrid-helpers-notapatch",
-  "description": "Helper classes for flexboxgrid",
+  "description": "Helper classes for flexboxgrid - test",
   "main": "./dist/flexboxgrid-helpers.css",
   "authors": [
     "lgg"

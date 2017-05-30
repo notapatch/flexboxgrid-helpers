@@ -1,0 +1,23 @@
+{
+  "name": "flexboxgrid-helpers-notapatch",
+  "description": "Helper classes for flexboxgrid",
+  "main": "dist/flexboxgrid-helpers.css",
+  "authors": [
+    "lgg"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "flexboxgrid",
+    "helper",
+    "classes",
+    "helpers"
+  ],
+  "homepage": "https://github.com/notapatch/flexboxgrid-helpers",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
